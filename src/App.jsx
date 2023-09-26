@@ -1,12 +1,12 @@
 import './App.css'
+import Card from './components/Card/Card'
 
 function App() {
   return (
     <>
-      <div class="card">
-        <h2>TABERNA 404</h2>
-        <img src="https://cdn.discordapp.com/attachments/1108770471232684153/1152239724036116500/Logotipo_podcast_ilustrado_neon_amarelo_1.png" />
-      </div>
+      <Card/>
+
+      
 
       <br></br>
 
